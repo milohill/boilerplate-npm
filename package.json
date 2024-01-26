@@ -4,8 +4,10 @@
   "description": "This is a practice board to learn about npm pacakges",
   "dependencies": {
     "express": "^4.14.0",
-    "@freecodecamp/example": "1.1.0",
-    "node": "19.3.0"
+    "@freecodecamp/example": "1.1.0"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "keywords": [
     "practice",
