@@ -3,7 +3,8 @@
   "author": "Yusef Dimas",
   "description": "This is a practice board to learn about npm pacakges",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.1.0"
   },
   "keywords": [
     "practice",
@@ -13,9 +14,6 @@
   "license": "MIT",
   "main": "server.js",
   "version": "1.2.0",
-  "dependencies": {
-    "@freecodecamp/example": "1.1.0"
-  },
   "scripts": {
     "start": "node server.js"
   },
