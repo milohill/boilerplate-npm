@@ -3,8 +3,8 @@
   "author": "Yusef Dimas",
   "description": "This is a practice board to learn about npm packages",
   "dependencies": {
-    "express": "^4.14.0",
-    "@freecodecamp/example": "1.1.0"
+    "@freecodecamp/example": "1.1.0",
+    "express": "^4.14.0"
   },
   "keywords": [
     "practice",
@@ -12,6 +12,9 @@
     "course"
   ],
   "license": "MIT",
+  "engines": {
+    "node": "20.9"
+  },
   "main": "server.js",
   "version": "1.2.0",
   "scripts": {
