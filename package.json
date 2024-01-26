@@ -5,9 +5,14 @@
   "dependencies": {
     "express": "^4.14.0"
   },
-  "keywords": ["practice", "freecodecamp", "course"],
+  "keywords": [
+    "practice",
+    "freecodecamp",
+    "course"
+  ],
   "license": "MIT",
   "main": "server.js",
+  "version": "1.2.0",
   "scripts": {
     "start": "node server.js"
   },
