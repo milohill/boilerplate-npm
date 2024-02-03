@@ -12,9 +12,6 @@
     "course"
   ],
   "license": "MIT",
-  "engines": {
-    "node": "20.11.0"
-  },
   "main": "server.js",
   "version": "1.0.0",
   "scripts": {
