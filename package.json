@@ -11,6 +11,9 @@
     "freecodecamp",
     "course"
   ],
+  "engines": {
+    "node": "19.3.0"
+  },
   "license": "MIT",
   "main": "server.js",
   "version": "1.0.0",
