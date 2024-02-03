@@ -12,7 +12,8 @@
     "course"
   ],
   "engines": {
-    "node": "19.3.0"
+    "node": "14.x",
+    "npm": "6.x"
   },
   "license": "MIT",
   "main": "server.js",
